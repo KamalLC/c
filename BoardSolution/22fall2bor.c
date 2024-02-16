@@ -5,6 +5,7 @@
 #include<stdio.h>
 #include<conio.h>
 
+
 void main(){
 	int i = 20;
 	int sum = 0;
