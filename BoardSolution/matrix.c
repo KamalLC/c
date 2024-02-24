@@ -1,10 +1,10 @@
-//matrix
+//taking M*n order matrix from user and displaying the matrix
 
 #include<stdio.h>
 #include<math.h>
 
 void main(){
-	int arr1[100][100], i, j, m, n;
+	int arr[100][100], i, j, m, n;
 	
 	printf("Enter no. of rows: ");
 	scanf("%d", &m);
